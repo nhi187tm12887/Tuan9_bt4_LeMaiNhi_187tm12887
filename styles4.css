@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.bt4.flex{
+    display: flex;
+    justify-content: space-between;
+    background-color: #feffde;
+    padding: 10px;
+    margin-left: 10px;
+    width: fit-content;
+}
+.Phim.Châu.Á{
+    border: 1px solid grey;
+    margin: 20px;
+    padding-bottom: 10px;
+    background-color: white;
+}
+.Sao.Việt{
+    border: 1px solid grey;
+    margin: 20px;
+    padding-bottom: 10px;
+    background-color: white;
+}
+.Nhạc.Châu.Á{
+    border: 1px solid grey;
+    margin: 20px;
+    padding-bottom: 10px;
+    background-color: white;
+}
+h1{
+    padding: 10px;
+}
+.news{
+    text-align: justify;
+    padding: 10px;
+    color: #11999E;
+}
+p{
+    padding: 10px;
+}
+h2{
+    padding: 10px;
+}
+i{
+    padding: 10px;
+    color: grey;
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+}
+.shopping{
+    display: flex;
+    justify-content: space-between;
+    background-color: #feffde;
+    padding: 20px;
+    margin: 10px;
+    width: fit-content;
+    color: gray;
+}
+.click{
+    border: 1px solid #fff9b0; 
+    margin: 10px;
+    background-color: white;
+}
+.price{
+    color: #aa2b1d;
+}
+s{
+    padding: 10px;
+}
+p{
+    color: black;
+}
+.Serum{
+    margin: 10px;
+    background-color: white;
+}
+.Olay{
+    margin: 10px;
+    background-color: white;
+}
+.Remove{
+    margin: 10px;
+    background-color: white;
+}
+.collagen{
+    margin: 10px;
+    background-color: white;
+}
+.kem.sẹo{
+    margin: 10px;
+    background-color: white;
+}
+.star-rating {
+    line-height:32px;
+    font-size:1em;
+    cursor: pointer;
+    color: #fd4;
+    margin: 10px;
+}
+.active{
+    display: inline-block;
+    background-color: wheat;
+    font-size: 12px;
+    border-radius: 200px;
+    margin: 10px 0 10px 20px;
+    padding: 1%;
+}
+
